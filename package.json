@@ -1,0 +1,13 @@
+{
+  "name": "spring-cli",
+  "author": {
+    "name": "Deyvison Borges"
+  },
+  "version": "v.0-beta",
+  "bin": {
+    "spring-cls": "./cli.sh"
+  },
+  "scripts": {
+    "install": "chmod +x ./cli.sh"
+  }
+}
